@@ -38,7 +38,7 @@ end
 # Define your play method below
 
 def play(board)
-  until !baord.empty?
+  until !board.empty?
     turn(board)
   end
 end
